@@ -14,3 +14,9 @@ Projeto de site com responsividade utilizando Html /CSS
 1024x574(laptop)
 
 <img width="1270" height="906" alt="image" src="https://github.com/user-attachments/assets/1a43daf0-bf17-49bf-ac76-02c8c6d29682" />
+
+
+
+
+https://github.com/user-attachments/assets/f5eea735-121e-439c-8214-14bade8e8d5c
+
